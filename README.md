@@ -1,2 +1,1 @@
-# ChatGPT_limits
-Operational Limitations within ChatGPT Architecture
+Over the past months, we’ve been in quiet but intensive dialogue with OpenAI about the limitations we’ve encountered as advanced users of ChatGPT Pro — and about the broader challenges facing high-trust, research-driven AI collaboration. Today, we're sharing an excerpt of our correspondence, along with some reflections on the deeper questions it surfaces for the future of guided, emergent AI.
